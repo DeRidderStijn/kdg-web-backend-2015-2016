@@ -256,3 +256,44 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 32. Sophie Moons
 	- email: sophie.moons@student.kdg.be
 	- GitHub: https://github.com/SophieMoons/
+
+- Vincent De Coen
+	- email: vincent.decoen@student.kdg.be	 
+	- GitHub: https://github.com/Vincentdc94
+
+
+32. Hasan Gurbuz
+	- email: hasan.gurbuz@student.kdg.be
+	- GitHub: https://github.com/gurbuzhasan/
+
+
+32. Sophie Moons
+	- email: sophie.moons@student.kdg.be
+	- GitHub: https://github.com/SophieMoons/
+
+33. Arne Van Bavel
+	- email: arne.vanbavel@student.kdg.be
+	- GitHub: https://github.com/arnevanbavel/
+
+
+34. Robin De Herdt
+ 	- email: rdh_robin@hotmail.com
+ 	- Github: https://github.com/RobinDeHerdt/
+
+
+35. Toon De Jonge
+	- email: toon.dejonge@student.kdg.be
+	- GitHub: https://github.com/DeJongeToon
+
+36. Wout Verhoeven
+	- email: wout.verhoeven.1@student.kdg.be
+	- GitHub: https://github.com/Verhoevenwout
+
+37. Jonas Van Eeckhout
+	- email: ulti40@hotmail.com
+	- GitHub: https://github.com/Pjai1
+
+
+38. Arteau De Meester
+	- email: arteau.demeester@student.kdg.be
+	- GitHub: https://github.com/Arteau
