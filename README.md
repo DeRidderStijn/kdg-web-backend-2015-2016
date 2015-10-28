@@ -303,3 +303,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 38. Arteau De Meester
 	- email: arteau.demeester@student.kdg.be
 	- GitHub: https://github.com/Arteau
+	
+39. Stijn De Ridder
+	- email: stijn.deridder.1@student.kdg.be
+	- GitHub: https://github.com/DeRidderStijn
+	
